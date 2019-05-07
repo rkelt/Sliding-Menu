@@ -1,2 +1,2 @@
 # Sliding-Menu
-Simple animated Sliding Menu
+A simple animated Sliding Menu.
